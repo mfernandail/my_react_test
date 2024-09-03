@@ -28,6 +28,10 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <a href="https://www.syngenta.cl/sites/g/files/kgtney491/files/media/document/2024/08/14/acaban_050_sc_acaricida_01-07-2024_version_2.pdf">
+        PDF
+      </a>
     </>
   )
 }
